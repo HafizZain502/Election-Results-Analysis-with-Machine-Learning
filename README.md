@@ -46,7 +46,7 @@ This project is open-sourced under the MIT License. See the `LICENSE` file for m
 
 ## Contact
 
-For any queries or discussions related to this project, please contact [Your Name] at [Your Email].
+For any queries or discussions related to this project, please contact Zain at zn_chaudhry@hotmail.com.
 
 ## Acknowledgements
 
